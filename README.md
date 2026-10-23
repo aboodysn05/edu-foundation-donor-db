@@ -39,7 +39,3 @@ on a scratch database, ideally logged in as each role to check its permissions.
 - Money columns use `DOUBLE`; `DECIMAL(10,2)` is safer.
 - `CommunicationTable` has PK `(DonorID, EmployeeID)`, so only one logged contact per pair.
 - Sample data is fictional.
-
-## License
-
-Add a license of your choice (e.g. MIT) before publishing.
