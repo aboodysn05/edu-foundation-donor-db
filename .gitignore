@@ -1,0 +1,6 @@
+.DS_Store
+*.docx
+*.pdf
+*.zip
+.env
+*.log
